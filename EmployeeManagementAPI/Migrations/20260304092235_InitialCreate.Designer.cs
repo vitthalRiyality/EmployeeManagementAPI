@@ -11,7 +11,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace EmployeeManagementAPI.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20260304084758_InitialCreate")]
+    [Migration("20260304092235_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
